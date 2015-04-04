@@ -1,1 +1,0 @@
-java -jar PrismaPuzzleTimer.jar -classpath .;lib\*
