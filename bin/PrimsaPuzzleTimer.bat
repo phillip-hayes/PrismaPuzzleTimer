@@ -1,0 +1,1 @@
+java -jar PrimsaPuzzleTimer.jar -classpath .;lib\*
